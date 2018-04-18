@@ -47,7 +47,7 @@ Also, if you want to check/start/stop **Lunex** , run one of the following comma
 systemctl status Lunex #To check the service is running.
 systemctl start Lunex #To start Lunex service.
 systemctl stop Lunex #To stop Lunex service.
-systemctl is-enabled lunex #To check whetether Lunex service is enabled on boot or not.
+systemctl is-enabled Lunex #To check whetether Lunex service is enabled on boot or not.
 ```
 ***
 
